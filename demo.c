@@ -11,4 +11,12 @@ void main()
 	scanf("%d",&n);
 
 	printf("\n\nThanks.... num = %d");
+
+	
+	printf("--------------->  second change <--------------");
+
+
+
+
 }
+
