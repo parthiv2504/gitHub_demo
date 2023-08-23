@@ -22,7 +22,7 @@ void main()
 	|		|
 	|		|
 	|		|
-	|  New branch	|
+	| Master branch	|
 	|		|
 	|		|
 	|		|	
